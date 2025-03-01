@@ -4,10 +4,10 @@
 Renee, an Adventure Works (fictional company name) executive based in the USA, has shared two files with you. The first is an Excel workbook called Sample.xlsx. The second is a PDF file called Exchange Rates.pdf. Your task is to add some data to the workbook file from the PDF and ensure it is correctly structured and formatted for readability.
 
 # Action plan to execute : 
-# 1 : Removing the State abbreviation column 
+# 1 : Removing Column 
          Select the letter B that identifies the column ➜ Right Click ➜ Delete Columns 
          
-# 2 : Widen the column to display full information
+# 2 : Widen the Column 
          Double-click the vertical line between the D and E columns to auto-resize.
          
 # 3 : Removing the non-numeric character 
@@ -21,7 +21,7 @@ Renee, an Adventure Works (fictional company name) executive based in the USA, h
       ⇒ Add "Japan" to C22 and autofill rows 23-24. 
       ⇒ Add "Germany" to C25 and autofill rows 26-27.
 
-# 6 : Country Names as headings : 
+# 6 : Column Names as headings : 
         Select row 22 ➜ right-click ➜ Insert Rows ➜ Type "Japan" in A22
         Repeat for row 26 ➜ Type "Germany" in A26
 
