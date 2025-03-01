@@ -4,16 +4,16 @@
 Renee, an Adventure Works (fictional company name) executive based in the USA, has shared two files with you. The first is an Excel workbook called Sample.xlsx. The second is a PDF file called Exchange Rates.pdf. Your task is to add some data to the workbook file from the PDF and ensure it is correctly structured and formatted for readability.
 
 # Action plan to execute : 
-# 1 : Removing the State abbreviation column as its no longer needed
+# 1 : Removing the State abbreviation column 
          Select the letter B that identifies the column ➜ Right Click ➜ Delete Columns 
          
-# 2 : Widen the column to display full information :
+# 2 : Widen the column to display full information
          Double-click the vertical line between the D and E columns to auto-resize.
          
-# 3 : Edit cell G18 to remove the non-numeric character :
+# 3 : Removing the non-numeric character 
          Double-click cell G18 to enter edit mode ➜ backspace the character ➜ Enter
 
-# 4 : Add a new blank column with Country Name 
+# 4 : Add a new blank column 
          Select column C ➜ right-click ➜ Insert Columns to add a new blank column.
 
 # 5 : Inserting Values in Column C
